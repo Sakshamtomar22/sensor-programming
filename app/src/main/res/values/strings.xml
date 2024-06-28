@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">sensor</string>
+    <string name="android_sensors">ANDROID SENSORS</string>
+    <string name="accelerometer">ACCELEROMETER</string>
+    <string name="gyroscope">GYROSCOPE</string>
+    <string name="megnetometer">MEGNETOMETER</string>
+    <string name="light">Light</string>
+    <string name="LIGHT">LIGHT</string>
+    <string name="_545">545</string>
+    <string name="z_axis">Z Axis</string>
+    <string name="x_axis">X Axis</string>
+    <string name="y_axis">Y Axis</string>
+    <string name="developed_by_saksham_tomar_n_student_of_gla_university_mathura">Developed by Saksham tomar\n student of Gla University Mathura</string>
+</resources>

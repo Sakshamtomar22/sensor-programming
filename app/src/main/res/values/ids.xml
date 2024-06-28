@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ax" type="id">ax</item>
+    <item name="ay" type="id">ay</item>
+    <item name="az" type="id">az</item>
+    <item name="gx" type="id">gx</item>
+    <item name="gy" type="id">gy</item>
+    <item name="gz" type="id">gz</item>
+    <item name="mx" type="id">mx</item>
+    <item name="my" type="id">my</item>
+    <item name="mz" type="id">mz</item>
+</resources>
